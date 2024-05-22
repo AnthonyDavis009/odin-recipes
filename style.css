@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(255, 144, 100, 0.63);
+}
+
+.header-primary, 
+.header-secondary {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+
+.header-primary {
+    font-size: 50px;
+}
+
+.header-secondary {
+    font-size: 35px;
+}
+
+.center {
+    text-align: center;
+}
+
+.center-list-style {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    list-style-type: none;
+    font-size: 15px;
+}
+
+.list-item-style {
+    height: 50px;
+}
+
+.link-style {
+    text-decoration: none;
+    color: #3785eb;
+}
+
+
